@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mail [
+<!ELEMENT mail (to,from,heading,body)> 
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<!ELEMENT heading (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+]>
+
+<mail>
+    <to>Ravi Kumar</to>
+    <from>Mr. Tom Cruise</from>
+    <heading>Something Confidential</heading>
+    <body>Hello, Good Morning. I'm Ravi Kumar, this is very important news for you that now you can change your profile password for some reason.</body>
+</mail>

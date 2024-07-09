@@ -1,0 +1,8 @@
+Hello World! This is a first git file for testing purpose that checking for version control v 0.1
+
+This is our second changes.
+This is our second changes.
+
+This changes is connected to git difference between twice, because we wanna checked in twice files.
+
+Hello
